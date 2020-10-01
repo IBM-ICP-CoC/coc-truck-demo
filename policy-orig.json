@@ -26,6 +26,6 @@
         }
     ],
     "constraints": [
-
+        "coc-approved == true"
     ]
 }

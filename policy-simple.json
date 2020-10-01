@@ -21,5 +21,7 @@
             "value": "helloworld"
         }
     ],
-    "constraints": [ ]
+    "constraints": [ 
+        "coc-approved == true AND security-level >= 3"
+    ]
 }

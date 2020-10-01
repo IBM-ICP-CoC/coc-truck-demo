@@ -2,18 +2,18 @@
 
 for n in {1..5}
 do
-    hzn exchange node updatepolicy -f policy-orig.json dev$n
+    hzn exchange node addpolicy -f policy-orig.json dev$n
 done
 
 for n in {6..10} 
 do
-    hzn exchange node updatepolicy -f policy-refrigerated.json dev$n
+    hzn exchange node addpolicy -f policy-refrigerated.json dev$n
 done
 
 
 for n in {11..20} 
 do
-    hzn exchange node updatepolicy -f policy-simple.json dev$n
+    hzn exchange node addpolicy -f policy-simple.json dev$n
 done
 
 echo "Done."

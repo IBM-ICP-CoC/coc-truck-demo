@@ -26,6 +26,7 @@
         }
     ],
     "constraints": [
-        "coc-approved == true AND security-level >= 3"
+        "coc-approved == true",
+        "security-level >= 3"
     ]
 }

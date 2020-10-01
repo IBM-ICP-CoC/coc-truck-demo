@@ -5,6 +5,10 @@
             "value": true
         },
         {
+            "name": "payload-type",
+            "value": "standard"
+        },
+        {
             "name": "has-gps",
             "value": true
         },
@@ -15,14 +19,6 @@
         {
             "name": "vehicle-type-code",
             "value": "TR23"
-        },
-        {
-            "name": "openhorizon.allowPrivileged",
-            "value": true
-        },
-        {
-            "name": "openhorizon.example",
-            "value": "helloworld"
         }
     ],
     "constraints": [ 

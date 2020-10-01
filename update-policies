@@ -10,10 +10,14 @@ do
     hzn exchange node addpolicy -f policy-refrigerated.json dev$n
 done
 
-
-for n in {11..20} 
+for n in {11..15} 
 do
     hzn exchange node addpolicy -f policy-simple.json dev$n
+done
+
+for n in {16..20} 
+do
+    hzn exchange node addpolicy -f policy-minimal.json dev$n
 done
 
 echo "Done."

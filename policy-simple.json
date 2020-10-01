@@ -13,10 +13,6 @@
             "value": "TR09"
         },
         {
-            "name": "openhorizon.allowPrivileged",
-            "value": true
-        },
-        {
             "name": "openhorizon.example",
             "value": "helloworld"
         }

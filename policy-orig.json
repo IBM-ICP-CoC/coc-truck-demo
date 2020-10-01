@@ -25,7 +25,5 @@
             "value": "helloworld"
         }
     ],
-    "constraints": [
-        "coc-approved == true"
-    ]
+    "constraints": [ ]
 }

@@ -5,10 +5,6 @@
             "value": false
         },
         {
-            "name": "engine-telemetry-version",
-            "value": 1.0
-        },
-        {
             "name": "vehicle-type-code",
             "value": "TR09"
         },

@@ -1,13 +1,13 @@
 # CoC's IEAM Truck Demo 
 
-## Assets for IEAM truck demo
+## Assets
 
 `dev3`: shutdown (shows as inactive in UI)
 
 `dev8`: stop docker (shows as error in UI)
 
 
-Node Properties:
+## Node Properties:
 
 `dev1` - `dev5` (policy-orig.json)
 ```

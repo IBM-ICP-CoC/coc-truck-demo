@@ -13,10 +13,6 @@
             "value": true
         },
         {
-            "name": "engine-telemetry-version",
-            "value": 1.9
-        },
-        {
             "name": "vehicle-type-code",
             "value": "TR18"
         }

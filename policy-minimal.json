@@ -1,16 +1,8 @@
 {
     "properties": [
         {
-            "name": "has-temperature-sensor",
-            "value": false
-        },
-        {
-            "name": "payload-type",
-            "value": "unknown"
-        },
-        {
-            "name": "vehicle-type-code",
-            "value": "TR09"
+            "name": "openhorizon.example",
+            "value": "helloworld"
         }
     ],
     "constraints": [ ]

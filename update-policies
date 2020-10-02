@@ -2,22 +2,22 @@
 
 for n in {1..5}
 do
-    hzn exchange node addpolicy -f policy-orig.json dev$n
+    hzn exchange node addpolicy -f policy-1-5.json dev$n
 done
 
 for n in {6..10} 
 do
-    hzn exchange node addpolicy -f policy-refrigerated.json dev$n
+    hzn exchange node addpolicy -f policy-6-10.json dev$n
 done
 
 for n in {11..15} 
 do
-    hzn exchange node addpolicy -f policy-simple.json dev$n
+    hzn exchange node addpolicy -f policy-11-15.json dev$n
 done
 
 for n in {16..20} 
 do
-    hzn exchange node addpolicy -f policy-minimal.json dev$n
+    hzn exchange node addpolicy -f policy-16-20.json dev$n
 done
 
 echo "Done."

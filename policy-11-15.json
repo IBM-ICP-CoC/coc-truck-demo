@@ -1,0 +1,23 @@
+{
+    "properties": [
+        {
+            "name": "has-temperature-sensor",
+            "value": false
+        },
+        {
+            "name": "payload-type",
+            "value": "standard"
+        },
+        {
+            "name": "has-gps",
+            "value": false
+        },
+        {
+            "name": "vehicle-type-code",
+            "value": "TR23"
+        }
+    ],
+    "constraints": [ 
+        "coc-approved == true"
+    ]
+}

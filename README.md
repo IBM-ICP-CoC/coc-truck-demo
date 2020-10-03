@@ -36,4 +36,6 @@ vehicle-type-code=TR09
 openhorizon.example=helloworld
 ```
 
+## Documentation
 
+[Service definition](https://github.com/open-horizon/anax/blob/master/docs/service_def.md)
